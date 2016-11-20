@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "oc-nested-requires-bug",
+  "version": "0.0.0",
+  "description": "A reproduction repo for oc's bug with nested paths in require calls.",
+  "scripts": {
+    "start": "oc dev ."
+  },
+  "author": "Matthew Davidson <matthew.davidson@skyscanner.net>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "oc": "^0.33.23"
+  }
+}
